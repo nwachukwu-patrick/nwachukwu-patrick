@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @nwachukwu-patrick
-- 👀 I’m interested in ...web development
-- 🌱 I’m currently learning ...php
-- 💞️ I’m looking to collaborate on ...html , css , javascript and php
+- 👀 I’m interested in ... software and web development
+- 🌱 I’m currently learning ...java
+- 💞️ I’m looking to collaborate on ...html , css , javascript php and java
 - 📫 How to reach me ...nwachukwupatrick06@gmail.com
 
 <!---
